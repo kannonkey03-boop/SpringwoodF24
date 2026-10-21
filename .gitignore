@@ -1,0 +1,20 @@
+.venv/
+__pycache__/
+*.pyc
+app_backup*.py
+deployment_backup/
+live_race_log.csv
+race_history.csv
+add_delete_race.py
+add_race_history.py
+add_reset_button.py
+add_stint_timer.py
+finish_race_patch.py
+replace_race_dashboard.py
+.streamlit/secrets.toml
+.env
+
+# Local development helper scripts
+fix_end_race.py
+import_laps.py
+update_*.py
